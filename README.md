@@ -1,6 +1,6 @@
 # 🖤 Welcome to my GitHub Profile
 
-![3d-hyperspace-background-with-warp-tunnel-effect](https://github.com/user-attachments/assets/013996ea-6497-41d5-9e90-40a72e1e390f)
+![3d-hyperspace-background-with-warp-tunnel-effect](https://github.com/user-attachments/assets/937f7f4e-daab-45b3-b2b9-62609bcb7027)
 
 
 ## ✨ About Me
