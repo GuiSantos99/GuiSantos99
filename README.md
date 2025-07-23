@@ -1,9 +1,9 @@
 <h1 align="center">🖤 Welcome to the Dark Side, I'm Tio Gui</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUOxf49UHK4WecxS76/giphy.gif" width="200"/>
+  <img src="https://media.tenor.com/AWll36wY22YAAAAi/flying-bo-katan-kryze.gif" width="150"/>
+  <img src="https://media.tenor.com/00QNYjdpIpYAAAAi/brandon-james-greer-darth-vader.gif" width="200"/>
 </p>
-
 <p align="center">
   <i>"I find your lack of documentation... disturbing."</i>
 </p>
@@ -15,7 +15,7 @@
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (Cruzeiro do Sul)
 - 💻 Foco em desenvolvimento **Front-end** (HTML, CSS, JS, React)
 - 🐍 Explorando o lado **Back-end da Força** com Python e Java
-- 🛡️ Apaixonado por **acessibilidade digital** e código limpo
+- 🛡️ Sempre pensando e respeitando as boas práticas **acessibilidade digital**
 - 🌠 Geek na alma, Jedi no código
 
 ---
