@@ -22,13 +22,14 @@
 
 ### 🛠️ Technologies & Tools
 
-![HTML](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=orange)
-![CSS](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=yellow)
-![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=blue)
-![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=orange)
-![Figma](https://img.shields.io/badge/Figma-111?style=for-the-badge&logo=figma&logoColor=white)
+<div style="display: inline;">
+    <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/HTML.svg" alt="logo HTML5" width="50" heigth="50">
+    <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/CSS.svg" alt="logo CSS" width="50" heigth="50">
+    <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/React.svg" alt="logo React" width="50" heigth="50">
+    <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/Python.svg" alt="logo Python" width="50" heigth="50">
+    <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/Github.svg" alt="logo GIT" width="50" heigth="50">
+    <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/Figma.svg" alt="logo Figma" width="50" heigth="50">
+</div>
 
 ---
 
