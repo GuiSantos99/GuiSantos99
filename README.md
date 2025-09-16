@@ -23,12 +23,12 @@
 ### 🛠️ Technologies & Tools
 
 <div style="display: inline;">
-    <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/HTML.svg" alt="logo HTML5" width="50" heigth="50">
-    <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/CSS.svg" alt="logo CSS" width="50" heigth="50">
-    <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/React.svg" alt="logo React" width="50" heigth="50">
-    <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/Python.svg" alt="logo Python" width="50" heigth="50">
-    <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/Github.svg" alt="logo GIT" width="50" heigth="50">
-    <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/Figma.svg" alt="logo Figma" width="50" heigth="50">
+    <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/HTML.svg" alt="logo HTML5" width="40" heigth="40">
+    <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/CSS.svg" alt="logo CSS" width="40" heigth="40">
+    <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/React.svg" alt="logo React" width="40" heigth="40">
+    <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/Python.svg" alt="logo Python" width="40" heigth="40">
+    <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/Github.svg" alt="logo GIT" width="40" heigth="40">
+    <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/Figma.svg" alt="logo Figma" width="40" heigth="40">
 </div>
 
 ---
@@ -53,5 +53,5 @@
 
 ### 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin-aqui)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-portfolio)
+<img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/Linkedin.svg" alt="Ir para minha página no linkeding" width="40" heigth="40">
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-portfolio)-->
